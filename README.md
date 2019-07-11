@@ -1,5 +1,11 @@
 # README
 
+## Purpose
+
+Practice TDD (Test Driven Development) with [Rails 5 Test Prescriptions](https://pragprog.com/book/nrtest3/rails-5-test-prescriptions).
+
+## Usage
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
